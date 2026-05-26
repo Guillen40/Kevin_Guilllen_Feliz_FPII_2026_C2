@@ -1,0 +1,10 @@
+C:\Users\echoe\Desktop\Prueba\Programa de loteria\Programa de loteria\bin\Debug\Programa de loteria.exe.config
+C:\Users\echoe\Desktop\Prueba\Programa de loteria\Programa de loteria\bin\Debug\Programa de loteria.exe
+C:\Users\echoe\Desktop\Prueba\Programa de loteria\Programa de loteria\bin\Debug\Programa de loteria.pdb
+C:\Users\echoe\Desktop\Prueba\Programa de loteria\Programa de loteria\obj\Debug\Programa de loteria.csproj.AssemblyReference.cache
+C:\Users\echoe\Desktop\Prueba\Programa de loteria\Programa de loteria\obj\Debug\Programa_de_loteria.Form1.resources
+C:\Users\echoe\Desktop\Prueba\Programa de loteria\Programa de loteria\obj\Debug\Programa_de_loteria.Properties.Resources.resources
+C:\Users\echoe\Desktop\Prueba\Programa de loteria\Programa de loteria\obj\Debug\Programa de loteria.csproj.GenerateResource.cache
+C:\Users\echoe\Desktop\Prueba\Programa de loteria\Programa de loteria\obj\Debug\Programa de loteria.csproj.CoreCompileInputs.cache
+C:\Users\echoe\Desktop\Prueba\Programa de loteria\Programa de loteria\obj\Debug\Programa de loteria.exe
+C:\Users\echoe\Desktop\Prueba\Programa de loteria\Programa de loteria\obj\Debug\Programa de loteria.pdb
