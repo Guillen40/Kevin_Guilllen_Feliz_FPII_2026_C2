@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Programa de loteria/Programa de loteria.csproj" Id="a6975f02-c3ce-421b-b9a1-c44acb554c3e">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+</Solution>
