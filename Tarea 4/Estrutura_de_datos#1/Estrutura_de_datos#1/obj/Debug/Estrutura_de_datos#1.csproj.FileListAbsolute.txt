@@ -1,0 +1,7 @@
+C:\Users\echoe\Desktop\Prueba\Estrutura_de_datos#1\Estrutura_de_datos#1\obj\Debug\Estrutura_de_datos#1.csproj.AssemblyReference.cache
+C:\Users\echoe\Desktop\Prueba\Estrutura_de_datos#1\Estrutura_de_datos#1\obj\Debug\Estrutura_de_datos#1.csproj.CoreCompileInputs.cache
+C:\Users\echoe\Desktop\Prueba\Estrutura_de_datos#1\Estrutura_de_datos#1\bin\Debug\Estrutura_de_datos#1.exe.config
+C:\Users\echoe\Desktop\Prueba\Estrutura_de_datos#1\Estrutura_de_datos#1\bin\Debug\Estrutura_de_datos#1.exe
+C:\Users\echoe\Desktop\Prueba\Estrutura_de_datos#1\Estrutura_de_datos#1\bin\Debug\Estrutura_de_datos#1.pdb
+C:\Users\echoe\Desktop\Prueba\Estrutura_de_datos#1\Estrutura_de_datos#1\obj\Debug\Estrutura_de_datos#1.exe
+C:\Users\echoe\Desktop\Prueba\Estrutura_de_datos#1\Estrutura_de_datos#1\obj\Debug\Estrutura_de_datos#1.pdb
